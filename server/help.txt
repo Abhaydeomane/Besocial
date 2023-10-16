@@ -1,0 +1,8 @@
+app.use(): This is an Express middleware function that is used to
+ mount middleware functions in the request handling pipeline.
+
+bodyParser.json(): This is middleware provided by the body-parser package, 
+which is used to parse the incoming request body in JSON format.
+
+bodyParser.urlencoded(): This is middleware provided by the body-parser package,
+ used to parse the incoming request body in URL-encoded format.
